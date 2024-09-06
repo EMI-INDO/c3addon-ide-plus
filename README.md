@@ -143,10 +143,10 @@ made based on https://github.com/armandoalonso/c3IDE
 
 ## Open AI API Pannel:
 **OpenAi API Settings**
-API Key: sk-proj-xxxxxxxxxxxxxxxxxxxx
-Model: dropdown
-Max Tokens
-Temperature
+- API Key: sk-proj-xxxxxxxxxxxxxxxxxxxx
+- Model: dropdown
+- Max Tokens
+- Temperature
 
 
 ## Gemini AI Pannel: hide
