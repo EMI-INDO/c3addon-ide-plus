@@ -100,6 +100,8 @@ made based on https://github.com/armandoalonso/c3IDE
 > - `editor path/instance.ts auto convert path/instance.js`
 > - `editor path/actions.ts auto convert path/actions.js`
 
+- Drag & Drop c3addon files here SDK V2
+- Drag & Drop c3addon SDK V1 PORTING TO ADDON SDK V2 (only Plugin singleGlobalPlugin or DOM plugin)
 - Editor auto suggestions API c3addon SDK: [Request ](https://github.com/EMI-INDO/c3addon-ide-plus/blob/main/suggestions)
 - Editor auto this._triger(auto_addonId.auto.cnds.id) (shift + alt + s)
 > [!IMPORTANT]  
@@ -108,15 +110,30 @@ made based on https://github.com/armandoalonso/c3IDE
 > - Auto Backup Remove ACE
 > - Auto Backup Remove ACE Params
 
-## Pannel c3addon Lab test:
-### C3addon build Group
 
+## Pannel c3addon Lab test:
+
+**C3addon build Group**
+- Update addon version
+- Build Addon
+
+**Server Group**
+- Custom Port (8000 - 8999)
+- Update port
+- Start All server: Server list localhost:randomPort/addonName/addon.json
+- Stop All server
+
+**GitHub Group**
+- Repositories c3addon Name Readonly
+- Url c3addon Repositories
+- Create c3addon GitHub Repository
+- Add c3addon Project to Repository
+- Push c3addon to Repository
 
 ## GitHub Pannel API:
-- Create Repository c3addon
-- Add,
-- Push,
-- clone.
+**GitHub API Settings**
+- github-user-name
+- Personal access tokens: ghp_xxxxxxxxx
 
 ## NPM Pannel:
 - Login 
@@ -124,59 +141,14 @@ made based on https://github.com/armandoalonso/c3IDE
 - Update
 - Clone
 
-Open AI API Pannel:
-Gemini AI Pannel:
+## Open AI API Pannel:
+**OpenAi API Settings**
+API Key: sk-proj-xxxxxxxxxxxxxxxxxxxx
+Model: dropdown
+Max Tokens
+Temperature
 
 
-Pannel C3 Addon SDK V2
-
-The logic/layout is similar to c3IDE
-which is not the same as below.
-
-Create New Addon (JS/TS)
-Only plugin SingleGlobal
-Remove Addon
-Change addon icon
-
-Editor auto suggestions API c3addon SDK
-
-Editor auto this._triger(auto_Id.auto.cnds.id)
-
-(Auto Backup: aces.json, lang.json)
-Remove Addon,
-Remove ACE,
-Remove Params.
-
-Editor addon TS auto convert to JS
-
-Server localhost:randomPort/addonName/addon.json
+## Gemini AI Pannel: hide
 
 
-Pannel Editor Cordova plugins:
-
-Lang: java, koltin, objctive-c, swift, 
-js, ts, json, html, css.
-
-
-Create new cordova plugin,
-editor plugin:  
-java, 
-koltin, 
-objctive-c,
-swift, 
-package.json, 
-plugin.js
-plugin.xml
-
-editor test plugin,
-index.html, index.js, css.
-
-support java compiler.
-
-(Including)
-GitHub Pannel API:
-Create Repository
-Add, Push, clone.
-
-NPM Pannel:
-Login, Add, Update, Clone.
