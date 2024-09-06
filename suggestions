@@ -1,0 +1,21 @@
+// Example
+          
+           {
+              label: 'this._info.AddCordovaResourceFile',
+              kind: monaco.languages.CompletionItemKind.Function,
+              insertText: 'this._info.AddCordovaResourceFile({ src: "myfile.txt" });',
+              detail: 'Insert AddCordovaResourceFile function',
+              documentation: 'Inserts the AddCordovaResourceFile function with a sample file source.'
+            },
+            {
+              label: '',
+              kind: monaco.languages.CompletionItemKind.Function,
+              insertText: '',
+              detail: ''
+            },
+            {
+              label: '',
+              kind: monaco.languages.CompletionItemKind.Function,
+              insertText: '',
+              detail: ''
+            }
