@@ -89,25 +89,44 @@ c3runtime.js || dispatchworker.js || jobworker.js || main.js || modernjscheck.js
 Reference layout, function and condition, 
 made based on https://github.com/armandoalonso/c3IDE
 
-- Currently only supporting 
 
-https://github.com/Scirra/Construct-Addon-SDK/tree/main/plugin-sdk/v2/singleGlobalPlugin
+> [!IMPORTANT]  
+> - Currently only supporting [singleGlobalPlugin ](https://github.com/Scirra/Construct-Addon-SDK/tree/main/plugin-sdk/v2/singleGlobalPlugin)
+## Create New c3addon 
+> [!WARNING]  
+> When Create New Addon (JS/TS) script type: typescript the ts file content is automatically converted to js.
+> - example logic 
+> - `const ts = require('typescript'); // dependency`
+> - `editor path/instance.ts auto convert path/instance.js`
+> - `editor path/actions.ts auto convert path/actions.js`
+
+- Editor auto suggestions API c3addon SDK: [Request ](https://github.com/EMI-INDO/c3addon-ide-plus/blob/main/suggestions)
+- Editor auto this._triger(auto_addonId.auto.cnds.id) (shift + alt + s)
+> [!IMPORTANT]  
+> (Auto Backup: aces.json, lang.json) 
+> - Auto Backup Remove Addon
+> - Auto Backup Remove ACE
+> - Auto Backup Remove ACE Params
+
+## Pannel c3addon Lab test:
+### C3addon build Group
+
 
 ## GitHub Pannel API:
-- Create Repository
+- Create Repository c3addon
 - Add,
 - Push,
 - clone.
 
-NPM Pannel:
-Login, Add, Update, Clone.
+## NPM Pannel:
+- Login 
+- Add
+- Update
+- Clone
 
-Open AI API:
-Gemini AI:
+Open AI API Pannel:
+Gemini AI Pannel:
 
-Pannel keystore:
-Create keystore
-Gnerate SHA keystore
 
 Pannel C3 Addon SDK V2
 
