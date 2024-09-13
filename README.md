@@ -97,11 +97,6 @@ made based on https://github.com/armandoalonso/c3IDE
 - Delete project/file
 - Language: Editor All
 
-> [!WARNING]
-> This file is not displayed
-```sh
-c3runtime.js || dispatchworker.js || jobworker.js || main.js || modernjscheck.js || supportcheck.js
-```
 
  
 ## Create New Cordova Plugin:
