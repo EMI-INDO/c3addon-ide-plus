@@ -10,6 +10,11 @@
 
 
 > [!IMPORTANT] 
+> - [Downlaod C3Addon IDE PLUS-1.0.0.dmg.zip ](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9iNGNjNGQxYWU1NzY3MGQwL0VWWmxNR1AyYlVwT2dLemZsdDNzNlhVQm12NTJFaHFVejUyQXotaHEzdmpQbGc%5FZT1aYzB5QUw&cid=B4CC4D1AE57670D0&id=B4CC4D1AE57670D0%21s633065566df64e4a80acdf96ddece975&parId=B4CC4D1AE57670D0%21sf0a3342679d342daaf7f19acf95a4e2e&o=OneUp)
+> - [Downlaod C3Addon IDE PLUS Setup 1.0.0.exe.zip ](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9iNGNjNGQxYWU1NzY3MGQwL0VTTkszTHBvN2dSRnJGQ2RwR00zSXJBQnl5bFFvTC03bFg3dmFiWEY2ZTl1Zmc%5FZT1VUHFWU0o&cid=B4CC4D1AE57670D0&id=B4CC4D1AE57670D0%21sbadc4a23ee684504ac509da4633722b0&parId=B4CC4D1AE57670D0%21se1a1e0e798ad4c308edeffbad299ffcf&o=OneUp)
+
+
+> [!IMPORTANT] 
 > - Although this tool is offline, 
 > - But in this beta release some dependencies such as icons still use CDN, 
 > - [font-awesome ](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css)
