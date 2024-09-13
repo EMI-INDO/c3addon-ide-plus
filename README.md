@@ -1,5 +1,6 @@
 # c3addon-ide-plus
-Cordova IDE Plus
+
+## This is a list of features not documentation.
 
 ## Support system
 > [!WARNING]  
@@ -30,6 +31,7 @@ made based on https://github.com/armandoalonso/c3IDE
 > - `const ts = require('typescript'); // dependency`
 > - `editor path/instance.ts auto convert path/instance.js`
 > - `editor path/actions.ts auto convert path/actions.js`
+
 
 
 
